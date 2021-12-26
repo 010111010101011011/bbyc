@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5b620C94a05a582b55D4E141f649893f464B85B3",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5b620c94a05a582b55d4e141f649893f464b85b3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Big Booty Yacht Club",
+  "SYMBOL": "BBYC",
+  "MAX_SUPPLY":1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bigbootyyachtclub",
+  "SHOW_BACKGROUND": true
+}
